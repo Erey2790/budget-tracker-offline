@@ -30,6 +30,7 @@ Users can create new transactions or deposit money.
 ## Demo
 
 Insert gif or link to demo
+![budget tracker pic](https://user-images.githubusercontent.com/90116580/160536521-8ce0e75d-87fb-4f5c-8118-6198dee375c1.PNG)
 
 
 ## 🔗 Links
